@@ -225,7 +225,7 @@ main {
         width: 100%;
     }
     .cards-c{
-        padding: 30px;
+        padding: auto;
     }
     .create{
         bottom: 40px;
